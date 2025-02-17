@@ -1,15 +1,5 @@
 html, body {
   padding: 0;
   border: 0;
-  height: 100%;
   box-sizing: border-box;
-}
-
-.container {
-  height: 100%;
-  width: 80%;
-  margin: 0 auto;
-  background: #f9f9f9;
-  display: flex;
-  flex-wrap: wrap;
 }
